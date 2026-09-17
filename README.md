@@ -7,21 +7,25 @@
 <p align="center">
   Full-Stack Developer • Student at FPT University
 </p>
+
 <p align="center">
-  I'm a <b>Software Engineering</b> student passionate about building complete, real-world software products —
-  from responsive frontends to reliable backend systems and mobile apps.
-  My tech stack spans <b>React, Next.js, NestJS, Flutter/Dart, and ASP.NET Core (.NET)</b>,
-  with hands-on experience in <b>MongoDB, PostgreSQL, Prisma, Redis, and Firebase</b>.
+  <img src="https://komarev.com/ghpvc/?username=huy1130&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  Across my academic and personal projects, I've worked in both Frontend and Backend roles — and often as a Fullstack Developer handling the entire flow end-to-end: designing UI/UX, building REST APIs, managing databases, and integrating third-party services. Through these projects, I've also gained a solid understanding of real-world business logic and system workflows across different domains.
+  I'm a <b>Software Engineering</b> student building real-world software products end-to-end — from responsive frontends to reliable backends and mobile apps.
+  Tech stack: <b>React, Next.js, NestJS, Flutter/Dart</b>, with <b>MongoDB, PostgreSQL, Prisma, Redis, and Firebase</b>.
 </p>
 
 <p align="center">
-  🎯 I'm actively looking for opportunities in <b>Software Development</b> — Frontend, Backend, or Fullstack roles —
-  where I can keep growing as an engineer and contribute to meaningful products.
+  Experienced in both <b>Frontend</b> and <b>Backend</b> roles, often working as a <b>Fullstack Developer</b> across UI/UX, REST APIs, and database design —
+  gaining solid understanding of real-world business logic along the way.
 </p>
+
+<p align="center">
+  🎯 Actively looking for opportunities in <b>Software Development</b> — Frontend, Backend, or Fullstack.
+</p>
+
 ---
 
 ### 🚀 Ngôn ngữ & Công cụ
@@ -29,7 +33,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 🧩 Frameworks & Libraries
 
@@ -63,8 +66,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huy1130&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
----
+### 🏆 GitHub Trophies
 
 <p align="center">
-  📫 Liên hệ: <a href="mailto:huy338119@gmail.com">huy338119@gmail.com</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=huy1130&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
+
+---
+
+### ⚡ Where to find me
+
+<p align="center">
+  <a href="https://www.facebook.com/nguyen.huy.207696"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:huy338119@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
