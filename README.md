@@ -1,4 +1,8 @@
-<h1 align="center">👋 </h1>
+<h1 align="center">👋 Welcome to my GitHub profile!</h1>
+
+<p align="center">
+  <b>I'm Nguyễn Quang Huy</b>
+</p>
 
 <p align="center">
   Full-Stack Developer • Student at FPT University
