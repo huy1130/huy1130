@@ -13,17 +13,9 @@
 </p>
 
 <p align="center">
-  I'm a <b>Software Engineering</b> student building real-world software products end-to-end — from responsive frontends to reliable backends and mobile apps.
-  Tech stack: <b>React, Next.js, NestJS, Flutter/Dart</b>, with <b>MongoDB, PostgreSQL, Prisma, Redis, and Firebase</b>.
-</p>
-
-<p align="center">
-  Experienced in both <b>Frontend</b> and <b>Backend</b> roles, often working as a <b>Fullstack Developer</b> across UI/UX, REST APIs, and database design —
-  gaining solid understanding of real-world business logic along the way.
-</p>
-
-<p align="center">
-  🎯 Actively looking for opportunities in <b>Software Development</b> — Frontend, Backend, or Fullstack.
+  I'm a <b>Software Engineering student</b> building real-world software products end-to-end.<br>
+  Hands-on with <b>React, Next.js, NestJS, Flutter</b>, REST APIs, and database design (<b>SQL/NoSQL, Prisma</b>).<br>
+  🎯 <b>Actively seeking Software Development opportunities.</b>
 </p>
 
 ---
