@@ -1,3 +1,5 @@
+
+<a name="top"></a>
 <h1 align="center">👋 Welcome to my GitHub profile!</h1>
 
 <p align="center">
@@ -77,3 +79,8 @@
 ---
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-181717?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</p>
