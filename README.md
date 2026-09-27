@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  I'm a <b>Software Engineering student</b> building real-world software products end-to-end.<br>
-  Hands-on with <b>React, Next.js, NestJS, Flutter</b>, REST APIs, and database design (<b>SQL/NoSQL, Prisma</b>).<br>
-  🎯 <b>Actively seeking Software Development opportunities.</b>
+  I'm a <b>Software Engineering student</b> with experience developing real-world software products.<br>
+  Experienced in <b>business logic & business rules</b>, with hands-on experience in <b>React, Next.js, NestJS, Flutter</b>, REST APIs, and database design.<br>
+  🎯 <b>Actively seeking opportunities as a Frontend, Backend, or Full-Stack Developer.</b>
 </p>
 
 ---
