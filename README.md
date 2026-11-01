@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Full-Stack Developer • Student at FPT University
+ Software engineer • Student at FPT University
 </p>
 
 <p align="center">
